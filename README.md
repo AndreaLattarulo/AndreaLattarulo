@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AndreaLattarulo
--👨‍🎓 I am a student at ITIS Majorana in Grugliasco, specializing in Computer Science, with a strong interest in programming, especially in C#,Html,CSS,.
+  
+-👨‍🎓 I am a student at ITIS Majorana in Grugliasco, specializing in Computer Science, with a strong interest in programming, especially in C#,Html,CSS.
 
 -💻 Throughout my studies, I have worked with development environments such as Visual Studio and Visual Studio Code, creating applications and school projects.
 🔧 I have experience with code management and team collaboration, along with basic skills in JavaScript and web development.
