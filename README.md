@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @AndreaLattarulo, Ettore Majorana, C#, HTML , JS, Web Developer | Passionate Programmer 
+## AndreaLattarulo - ITIS Majorana - C# - HTML - JS - Web Developer | Passionate Programmer 
 
  -✨Creative Mind, Logical Code 
  - Coding with Curiosity & Imagination 
