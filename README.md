@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @AndreaLattarulo
+## 👋 Hi, I’m @AndreaLattarulo, Ettore Majorana, C#, HTML , JS, Web Developer | Passionate Programmer 
+
+ -✨Creative Mind, Logical Code 
+ - Coding with Curiosity & Imagination 
   
--👨‍🎓 I am a student at ITIS Majorana in Grugliasco, specializing in Computer Science, with a strong interest in programming, especially in C#,Html,CSS and JavaScript.
+-👨‍🎓 I am a student at ITIS Majorana in Grugliasco, specializing in Computer Science, with a strong interest in programming, especially in C#,HTML,CSS and JavaScript.
 
 -💻 Throughout my studies, I have worked with development environments such as Visual Studio and Visual Studio Code, creating applications and school projects.
 🔧 I have experience with code management and team collaboration, along with basic skills in JavaScript and web development.
